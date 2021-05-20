@@ -1,0 +1,7 @@
+PredictMCF.ipynb: Copy of early-stage MCF version.
+
+PredictMCF_v1.ipynb: Turned in for Milestone.
+
+PredictMCF_Delaney.ipynb: Delaney's current working version.
+
+PredictMCF_Russell.ipynb: Russell's current working version.

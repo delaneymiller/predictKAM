@@ -1,5 +1,6 @@
 scipy
 tensorflow
+tensorflow_addons
 numpy
 keras
 matplotlib

@@ -3,5 +3,6 @@ tensorflow
 tensorflow_addons
 numpy
 keras
+keras-vis
 matplotlib
 
